@@ -4,6 +4,6 @@
 
 {framework}-kit-starter
 
-## features
+## Features
 
-{framework}-feature-{feature}
+{framework}-{feature}
